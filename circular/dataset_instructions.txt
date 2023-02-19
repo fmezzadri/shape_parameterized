@@ -1,1 +1,6 @@
-1
+The complete dataset for training and testing the shape parameterized NN and PINN for the circular hole problem can be downloaded at: 
+
+https://drive.google.com/drive/folders/1FWfJ4VxP_mpGCW5gR4KCMCR0wKQce420?usp=share_link
+
+The codes "circular.py" can be immediately run provided that the dataset is placed in a folder named "datasetCIRC", placed in the same directory 
+as the file "circular.py".

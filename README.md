@@ -2,6 +2,7 @@ This repository contains codes to train the shape-parameterized neural networks 
 Links where the corresponding datasets can be downloaded are provided.
 
 The codes have been run and tested on a system equipped with Python 3.6.13, Tensorflow 2.5.2, and Sciann 0.6.5.1
+
 The full details of the machine where the codes have been run are reported in the file requirements.txt
 
 The codes are provided in the following directories:
